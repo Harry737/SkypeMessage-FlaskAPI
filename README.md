@@ -32,7 +32,7 @@ python skypeMessage-python.py
 ### Flask Web Application
 To run the Flask web application, execute the following command:
 
-```cmd
+```batch
 set FLASK_APP=skeypMessage-flask.py
 python -m flask run --host=0.0.0.0
 ```
